@@ -1,8 +1,10 @@
-Rainbow
+Rainbow and Unicorn
 Orange
 Green 
 Red
 Pink
 Blue
 Yellow
+Unicorn
 These are the colors.
+And the unicorn.
