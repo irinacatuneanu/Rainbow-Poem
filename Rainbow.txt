@@ -1,0 +1,7 @@
+Rainbow
+Orange
+Green 
+Red
+Pink
+
+These are the colors.
