@@ -5,6 +5,7 @@ Red
 Pink
 Blue
 Yellow
+Indigo
 Unicorn
 These are the colors.
 And the unicorn.
