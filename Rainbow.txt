@@ -1,4 +1,4 @@
-Rainbow and Unicorn
+Rainbow and Unicorn and Pony
 Orange
 Green 
 Red
@@ -9,3 +9,4 @@ Indigo
 Unicorn
 These are the colors.
 And the unicorn.
+And the ponies.
